@@ -1,0 +1,11 @@
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\bin\Debug\SpeedCliboard.exe.config
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\bin\Debug\SpeedCliboard.exe
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\bin\Debug\SpeedCliboard.pdb
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\obj\Debug\SpeedCliboard.SpeedCliboard.resources
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\obj\Debug\SpeedCliboard.Properties.Resources.resources
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\obj\Debug\SpeedCliboard.csproj.GenerateResource.Cache
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\obj\Debug\SpeedCliboard.csproj.CoreCompileInputs.cache
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\obj\Debug\SpeedCliboard.exe
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\obj\Debug\SpeedCliboard.pdb
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\obj\Debug\SpeedCliboard.Ajouter.resources
+C:\Users\BLERAYS\source\repos\SpeedCliboard\SpeedCliboard\obj\Debug\SpeedCliboard.csprojResolveAssemblyReference.cache
